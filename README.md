@@ -1,4 +1,4 @@
 # ezwslshutdown
 
 
-Is a foss script that simply shutsdown wsl for you!
+Is a foss script that simply shuts down wsl for you!
